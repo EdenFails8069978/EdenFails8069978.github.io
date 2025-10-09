@@ -36,6 +36,10 @@ createPlatform(192, 400, 150, 13)
 createPlatform(342, 267, 150, 13)
 createPlatform(456, 658, 150, 13)
 createPlatform(678, 482, 150, 13)
+createPlatform(942, 350, 150, 13)
+createPlatform(1264, 260, 150, 13)
+createPlatform(678, 182, 150, 13)
+createPlatform(972, 650, 150, 13)
     // TODO 3 - Create Collectables
 
 
