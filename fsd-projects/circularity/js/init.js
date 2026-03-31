@@ -113,7 +113,7 @@ game.checkCirclePosition(circles[ 4 ])
             }
             
             // TODO 6 : YOUR CODE STARTS HERE //////////////////////
-           else if (circle.x < 0) {
+          else if (circle.x < 0) {
 
                 circle.x = canvas.width;
 
